@@ -7,3 +7,5 @@ A simple invoice generator( bill management ) using python.</br></br>
 4.Design created using tkinter.</br>
 
 ![Image of app](https://github.com/adithyaharish/invoice-generator/blob/master/images/Capture.PNG)
+
+![Watch the video](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)
