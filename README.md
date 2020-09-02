@@ -5,7 +5,12 @@ A simple invoice generator( bill management ) using python.</br></br>
 2.After filling the details, clicking the tab 'print' pops up a PDF in a bill format which can be saved or printed.</br>
 3.Import the necessary python libraries.</br>
 4.Design created using tkinter.</br>
+[![Watch the video](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)</br>
 
-![Image of app](https://github.com/adithyaharish/invoice-generator/blob/master/images/Capture.PNG)
+![Image of app](https://github.com/adithyaharish/invoice-generator/blob/master/images/Capture.PNG)</br>
 
-[![Watch the video](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)
+![Image of app](https://github.com/adithyaharish/invoice-generator/blob/master/images/Capture2.PNG)</br>
+
+![Image of app](https://github.com/adithyaharish/invoice-generator/blob/master/images/Capture3.PNG)
+
+
