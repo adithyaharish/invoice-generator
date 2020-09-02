@@ -8,4 +8,4 @@ A simple invoice generator( bill management ) using python.</br></br>
 
 ![Image of app](https://github.com/adithyaharish/invoice-generator/blob/master/images/Capture.PNG)
 
-![Watch the video](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)
+[![Watch the video](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)
